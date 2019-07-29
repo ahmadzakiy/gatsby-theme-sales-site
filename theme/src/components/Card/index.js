@@ -26,7 +26,7 @@ class Card extends Component {
     return (
       <Link to={linkPost} className="card-link">
         <div className="card-wrapper">
-          <span className="detail-promo">lihat detail promo</span>
+          <span className="detail-promo">check for promo</span>
           <div className="header">
             <h1>{title}</h1>
             <p>{description}</p>

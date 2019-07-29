@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2573abb-1c68-490a-905d-ad5873f287a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demo/static/admin/config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theme/src/images/zakiy.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/demo/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/theme/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme/src/components/Benefit/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/theme/src/components/Benefit/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme/src/components/Image.js" beforeDir="false" afterPath="$PROJECT_DIR$/theme/src/components/Image.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme/src/images/akbar.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme/static/admin/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/theme/static/admin/config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme/src/components/Card/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/theme/src/components/Card/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -42,26 +33,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="450">
-                <caret line="30" column="169" selection-start-line="30" selection-start-column="169" selection-end-line="30" selection-end-column="169" />
+              <first_editor relative-caret-position="225">
+                <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/theme/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="450">
-                <caret line="30" column="101" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="101" />
-              </first_editor>
-              <second_editor />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/theme/src/components/Card/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="28" column="51" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -98,6 +86,7 @@
         <option value="$PROJECT_DIR$/demo/README.md" />
         <option value="$PROJECT_DIR$/theme/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/theme/src/components/Card/index.js" />
       </list>
     </option>
   </component>
@@ -134,48 +123,7 @@
             <path>
               <item name="gatsby-theme-sales-site" type="b2602c69:ProjectViewProjectNode" />
               <item name="gatsby-theme-sales-site" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gatsby-theme-sales-site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatsby-theme-sales-site" type="462c0819:PsiDirectoryNode" />
               <item name="theme" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gatsby-theme-sales-site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatsby-theme-sales-site" type="462c0819:PsiDirectoryNode" />
-              <item name="theme" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gatsby-theme-sales-site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatsby-theme-sales-site" type="462c0819:PsiDirectoryNode" />
-              <item name="theme" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gatsby-theme-sales-site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatsby-theme-sales-site" type="462c0819:PsiDirectoryNode" />
-              <item name="theme" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="Benefit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gatsby-theme-sales-site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatsby-theme-sales-site" type="462c0819:PsiDirectoryNode" />
-              <item name="theme" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="Bio" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="gatsby-theme-sales-site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gatsby-theme-sales-site" type="462c0819:PsiDirectoryNode" />
-              <item name="theme" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -230,12 +178,12 @@
       <updated>1563980727224</updated>
       <workItem from="1563980728819" duration="253000" />
       <workItem from="1564320173874" duration="10956000" />
-      <workItem from="1564407179553" duration="5049000" />
+      <workItem from="1564407179553" duration="5188000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16258000" />
+    <option name="totallyTimeSpent" value="16397000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -560,10 +508,17 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="450">
-            <caret line="30" column="169" selection-start-line="30" selection-start-column="169" selection-end-line="30" selection-end-column="169" />
+          <first_editor relative-caret-position="225">
+            <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/src/components/Card/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="28" column="51" selection-start-line="28" selection-start-column="51" selection-end-line="28" selection-end-column="51" />
         </state>
       </provider>
     </entry>
