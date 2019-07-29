@@ -1,58 +1,31 @@
-# Gatsby Theme Jam Submission Example
+# Gatsby Theme Sales Site
 
-This repo is an example and potential starting point for theme creators.
+See the [live demo](https://gatsby-theme-portfolio.netlify.com)
 
-It includes:
-- a bare-bones theme (located in `theme/`) that includes basic setup
-- a demo site (located in `demo/`) that installs the theme
-- a Yarn workspaces configuration so the theme and demo can be worked on simultaneously
+## Installation
 
-## How to use this repo
+To use this theme in your Gatsby sites, follow these instructions:
 
-**NOTE:** Make sure to replace `USERNAME` with your GitHub username and `THEMENAME` with your theme name.
-
-1.  Fork this repo.
-
-2.  Rename the forked repo `gatsby-theme-THEMENAME`. (Make sure to replace `THEMENAME` with your chosen name.)
-
-3.  Get the theme set up locally.
+1.  Install the theme
     ```sh
-    # clone the repo
-    git clone git@github.com:USERNAME/gatsby-theme-THEMENAME.git
-
-    # move into the directory
-    cd gatsby-theme-THEMENAME
-
-    # install dependencies
-    yarn
+    npm i gatsby-theme-sales-site
     ```
 
-4.  Update `theme/package.json` with your info.
-    ```diff
-      {
-    +   "name": "gatsby-theme-THEMENAME",
-    +   "author": "Your Name <name@example.com>",
-        "repository": {
-          "type": "git",
-    +     "url": "https://github.com/USERNAME/gatsby-theme-THEMENAME.git"
-        },
-    ```
+    or
 
-5.  Start the demo site.
     ```sh
-    yarn workspace demo develop
+    yarn add gatsby-sales-site
+    
+2.  Add the theme to your `gatsby-config.js`:
+    ```js
+    module.exports = {
+      plugins: [`gatsby-theme-sales-site`]
+    }
+    ```
+    
+3.  Start your site
+    ```sh
+    gatsby develop
     ```
 
-    The demo will start at http://localhost:8000
-
-    **NOTE:** If you’re new to Yarn workspaces, check out [this post](https://www.gatsbyjs.org/blog/2019-05-22-setting-up-yarn-workspaces-for-theme-development/) for details.
-
-6.  Start editing the theme! The demo site is configured to use the local theme, so any changes you make to the local `theme` directory will be reflected on the demo site for easy local development.
-
-7.  Follow the [submission checklist](./theme/README.md#submission-checklist) to make sure your theme qualifies to win!
-
-8.  [Submit your theme](https://themejam.gatsbyjs.org/submit) to win!
-
-## More information
-
-For contest rules and more information, see [the Theme Jam website](https://themejam.gatsbyjs.org).
+4.  To edit content from the theme, open `http://localhost:8000/admin/` To edit content from the theme, open `http://localhost:8000/admin/` and setup netlify cms account

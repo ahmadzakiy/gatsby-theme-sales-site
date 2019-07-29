@@ -19,23 +19,3 @@ title: Benefit PromoDaihatsu123.com
 * **GRATIS – Sarung kunci mobil senilai Rp 250.000**
 
 \*Persediaan terbatas setiap minggunya.
-
-
-
-## Testimonial
-
-![testimoni promo daihatsu 123](/img/testi-ibu-misri.jpeg "testimoni promo daihatsu 123")
-
-> _**“Mas Akbar (PromoDaihatsu123) ini orangnya selain enak diajak ngobrol, dia juga sabar dalam menjawab pertanyaan-pertanyaan saya”.**_ 
->
-> – Ibu Masnuah, Tangerang.
-
-![testimoni promo daihatsu 123](/img/testi-ibu-masnuah.jpeg "testimoni promo daihatsu 123")
-
-> _**“Beliau masih muda, namun bisa meyakinkan saya untuk mencari mobil terbaik buat saya. Sebagai sales resmi Daihatsu, beliau penjual yang sangat membantu.”**_
->
-> –  Ibu Misri Tangerang.
-
-## 
-
-##

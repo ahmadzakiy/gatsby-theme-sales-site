@@ -2,19 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b2573abb-1c68-490a-905d-ad5873f287a4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/demo/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/demo/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/demo/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/theme/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/theme/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo/static/admin/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/theme/src/images/zakiy.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/demo/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/theme/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/theme/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/theme/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme/gatsby-node.js" beforeDir="false" afterPath="$PROJECT_DIR$/theme/gatsby-node.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/theme/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme/src/components/layout.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme/src/gatsby-plugin-theme-ui/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theme/src/templates/page.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme/src/components/Benefit/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/theme/src/components/Benefit/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme/src/components/Image.js" beforeDir="false" afterPath="$PROJECT_DIR$/theme/src/components/Image.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme/src/images/akbar.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme/static/admin/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/theme/static/admin/config.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,17 +27,41 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/theme/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+            <state relative-caret-position="165">
+              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/theme/static/admin/config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="8" selection-start-column="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/theme/gatsby-config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1050">
-              <caret line="70" column="30" selection-start-line="70" selection-start-column="30" selection-end-line="70" selection-end-column="30" />
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="450">
+                <caret line="30" column="169" selection-start-line="30" selection-start-column="169" selection-end-line="30" selection-end-column="169" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/theme/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="450">
+                <caret line="30" column="101" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="101" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -68,9 +89,15 @@
         <option value="$PROJECT_DIR$/demo/gatsby-config.js" />
         <option value="$PROJECT_DIR$/theme/package.json" />
         <option value="$PROJECT_DIR$/theme/gatsby-node.js" />
-        <option value="$PROJECT_DIR$/theme/README.md" />
         <option value="$PROJECT_DIR$/theme/src/components/WaButton/index.js" />
         <option value="$PROJECT_DIR$/theme/gatsby-config.js" />
+        <option value="$PROJECT_DIR$/demo/static/admin/config.yml" />
+        <option value="$PROJECT_DIR$/theme/src/components/Benefit/index.md" />
+        <option value="$PROJECT_DIR$/theme/src/components/Image.js" />
+        <option value="$PROJECT_DIR$/theme/static/admin/config.yml" />
+        <option value="$PROJECT_DIR$/demo/README.md" />
+        <option value="$PROJECT_DIR$/theme/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -107,6 +134,11 @@
             <path>
               <item name="gatsby-theme-sales-site" type="b2602c69:ProjectViewProjectNode" />
               <item name="gatsby-theme-sales-site" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gatsby-theme-sales-site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatsby-theme-sales-site" type="462c0819:PsiDirectoryNode" />
               <item name="theme" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -128,7 +160,22 @@
               <item name="theme" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="WaButton" type="462c0819:PsiDirectoryNode" />
+              <item name="Benefit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gatsby-theme-sales-site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatsby-theme-sales-site" type="462c0819:PsiDirectoryNode" />
+              <item name="theme" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Bio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gatsby-theme-sales-site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatsby-theme-sales-site" type="462c0819:PsiDirectoryNode" />
+              <item name="theme" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -137,8 +184,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/theme" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/theme/src/images" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
@@ -151,6 +199,8 @@
       <recent name="$PROJECT_DIR$/xblog/src/pages/bio" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/theme/src/images" />
+      <recent name="$PROJECT_DIR$/demo/static" />
       <recent name="$PROJECT_DIR$/theme" />
       <recent name="$PROJECT_DIR$/xblog/src/templates" />
       <recent name="$PROJECT_DIR$/xblog/src/components/Bio" />
@@ -180,18 +230,18 @@
       <updated>1563980727224</updated>
       <workItem from="1563980728819" duration="253000" />
       <workItem from="1564320173874" duration="10956000" />
-      <workItem from="1564407179553" duration="2683000" />
+      <workItem from="1564407179553" duration="5049000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13892000" />
+    <option name="totallyTimeSpent" value="16258000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -203,7 +253,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32959184" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -215,14 +265,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/theme-ui/dist/index.esm.js" />
     <entry file="file://$PROJECT_DIR$/xblog/index.js">
       <provider selected="true" editor-type-id="text-editor" />
@@ -313,14 +355,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/xblog/.prettierrc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -379,9 +413,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/theme/static/admin/config.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/theme/src/templates/blog-page.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -422,23 +453,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/theme/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="98">
-            <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/theme/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/theme/src/components/WaButton/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -458,8 +472,98 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/theme/gatsby-config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="70" column="30" selection-start-line="70" selection-start-column="30" selection-end-line="70" selection-end-column="30" />
+        <state relative-caret-position="168">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/public/admin/cms.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1181">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/public/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/src/components/Benefit/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="300">
+            <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/src/components/Image.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/src/components/Bio/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/static/admin/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/static/admin/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1410">
+            <caret line="94" column="171" selection-start-line="94" selection-start-column="171" selection-end-line="94" selection-end-column="171" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="450">
+            <caret line="30" column="101" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="101" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="450">
+            <caret line="30" column="169" selection-start-line="30" selection-start-column="169" selection-end-line="30" selection-end-column="169" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
