@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `SalesSite123.com`,
-    description: `Simple site to showcase products.`,
+    description: `A Gatsby theme for sales to showcase their products`,
     author: `Ahmad Zakiy`,
     authorDescription: `Sales Executive`,
   },

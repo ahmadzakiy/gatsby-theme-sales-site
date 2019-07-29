@@ -1,6 +1,8 @@
 # Gatsby Theme Sales Site
 
-See the [live demo](https://gatsby-theme-portfolio.netlify.com)
+See the [live demo](https://gatsby-theme-sales-site.netlify.com/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/92636c0c-5e5f-4ea6-b762-a3261beca3f9/deploy-status)](https://app.netlify.com/sites/gatsby-theme-sales-site/deploys)
 
 ## Installation
 
@@ -28,4 +30,4 @@ To use this theme in your Gatsby sites, follow these instructions:
     gatsby develop
     ```
 
-4.  To edit content from the theme, open `http://localhost:8000/admin/` To edit content from the theme, open `http://localhost:8000/admin/` and setup netlify cms account
+4.  To edit content from the theme, open `http://localhost:8000/admin/` and setup your netlify account

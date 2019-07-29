@@ -1,5 +1,6 @@
 {
   "name": "gatsby-theme-sales-site",
+  "description": "A Gatsby theme for sales to showcase their products",
   "author": "Ahmad Zakiy <in.zakiy@gmail.com",
   "repository": {
     "type": "git",
@@ -46,13 +47,5 @@
     "gatsby",
     "gatsby-theme",
     "gatsby-plugin"
-  ],
-  "scripts": {
-    "build": "gatsby build",
-    "develop": "gatsby develop",
-    "format": "prettier --write src/**/*.{js,jsx}",
-    "start": "npm run develop",
-    "serve": "gatsby serve",
-    "test": "echo \"Write tests! -> https://gatsby.app/unit-testing\""
-  }
+  ]
 }
