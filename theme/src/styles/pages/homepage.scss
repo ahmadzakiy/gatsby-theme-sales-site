@@ -1,0 +1,18 @@
+@import "../variables";
+
+.card-list {
+  padding: 16px 0 36px 16px;
+  display: flex;
+  flex-direction: row;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  scroll-behavior: smooth;
+
+  &::-webkit-scrollbar { width: 0 !important }
+}
+
+@media (min-width: $breakpoint-mobile) {
+  .card-list {
+    padding: 36px 0 64px 48px;
+  }
+}

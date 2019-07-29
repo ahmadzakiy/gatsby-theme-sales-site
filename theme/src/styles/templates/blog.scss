@@ -1,0 +1,30 @@
+@import "../variables";
+
+.blog-wrapper {
+  margin: 16px;
+
+  h1, h3 {
+    text-align: center;
+  }
+
+  h2 {
+    color: $color-red;
+    border-radius: 8px;
+    padding: 8px;
+  }
+
+  img {
+    border-radius: 8px;
+    box-shadow: 0 10px 20px $box-shadow !important;
+  }
+}
+
+@media (min-width: $breakpoint-mobile) {
+  .blog-wrapper {
+    margin: 16px 320px;
+
+    h1 {
+      font-size: 48px;
+    }
+  }
+}

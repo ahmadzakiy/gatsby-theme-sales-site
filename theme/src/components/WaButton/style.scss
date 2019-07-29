@@ -1,0 +1,32 @@
+@import '../../styles/variables';
+
+.wa-button-wrapper {
+  z-index: 1;
+  position: fixed;
+  bottom: 16px;
+  right: 16px;
+  border: none;
+  color: $color-white;
+  text-align: center;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 20px;
+  padding: 8px 15px;
+  cursor: pointer;
+  background-image: linear-gradient(to right, #25d366 0%, #24ca62 100%);
+  box-shadow: 0 10px 20px $box-shadow;
+  transition: all 0.6s cubic-bezier(0.2, 0.8, 0.2, 1) 0s;
+
+  &:hover {
+    color: $color-white;
+    box-shadow: 0 1px 0 rgba(0,0,0,0.09);
+    transform: translateY(6px);
+  }
+}
+
+@media (min-width: $breakpoint-mobile) {
+  .wa-button-wrapper {
+    bottom: 32px;
+    right: 32px;
+  }
+}

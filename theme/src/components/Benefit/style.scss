@@ -1,0 +1,20 @@
+@import "../../styles/variables";
+
+.benefit-wrapper {
+  margin: 32px 16px;
+  padding: 16px;
+  border: 1px dashed $color-red;
+  border-radius: 8px;
+  box-shadow: 0 10px 20px $box-shadow !important;
+
+  h2 {
+    text-align: center;
+  }
+}
+
+@media (min-width: $breakpoint-mobile) {
+  .benefit-wrapper {
+    margin: 64px 320px;
+    padding: 32px;
+  }
+}

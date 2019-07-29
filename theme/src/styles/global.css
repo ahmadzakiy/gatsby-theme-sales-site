@@ -1,0 +1,11 @@
+a {
+  text-decoration: none;
+  color: #232323;
+  transition: color 0.3s; }
+  a:hover {
+    color: #ababab; }
+
+.card-list {
+  padding: 36px 36px 0 36px; }
+
+/*# sourceMappingURL=global.css.map */
